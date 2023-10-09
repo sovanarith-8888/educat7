@@ -219,7 +219,7 @@ p,a,button{
 @media (min-width: 992px){
   .container{
     line-height: 1.5;
-    width: 90%;
+    width: 80%;
     background-color: transparent;
     & nav{
       & ul{
